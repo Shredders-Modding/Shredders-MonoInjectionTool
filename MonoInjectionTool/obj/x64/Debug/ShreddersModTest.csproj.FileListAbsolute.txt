@@ -1,0 +1,8 @@
+C:\Users\Jeff\source\repos\ShreddersModTest\ShreddersModTest\bin\x64\Debug\modtest.dll
+C:\Users\Jeff\source\repos\ShreddersModTest\ShreddersModTest\bin\x64\Debug\modtest.pdb
+C:\Users\Jeff\source\repos\ShreddersModTest\ShreddersModTest\obj\x64\Debug\ShreddersModTest.csproj.CoreCompileInputs.cache
+G:\Steam\steamapps\common\Shredders\Mods\MonoInjectionTool.dll
+G:\Steam\steamapps\common\Shredders\Mods\MonoInjectionTool.pdb
+C:\Users\Jeff\source\repos\ShreddersModTest\ShreddersModTest\obj\x64\Debug\MonoInjectionTool.dll
+C:\Users\Jeff\source\repos\ShreddersModTest\ShreddersModTest\obj\x64\Debug\MonoInjectionTool.pdb
+C:\Users\Jeff\source\repos\ShreddersModTest\ShreddersModTest\obj\x64\Debug\ShreddersModTest.csprojAssemblyReference.cache
