@@ -7,8 +7,8 @@
 
 ### Dependencies
 
-Must own the Shredders game
-MelonLoader must be installed
+* Must own the Shredders game
+* MelonLoader must be installed
 
 ### Installing
 
