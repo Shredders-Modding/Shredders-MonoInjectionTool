@@ -14,7 +14,7 @@
 ### Installing
 
 * Build the project
-* Drag the MonoInjectionTool.dll into Shredders/Mods folder
+* Drag the MonoInjectionTool.dll into Shredders\Mods folder
 * Create a folder in Shredders\UserLibs called Inject
-* Drag and drop your dll in the Shredders\UserLibs\Inject folder you created
-* Start the game and MonoInjectionTool will tell you if it loaded your library in the MelonLoader console window
+* Drag and drop your dll and AssetBundle (if you have one) in the Shredders\UserLibs\Inject folder you created
+* Start the game and MonoInjectionTool will tell you if it loaded your library / bundle in the MelonLoader console window
